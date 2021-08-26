@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093948247536",
+    "project_id": "snapbox-6c3ce",
+    "storage_bucket": "snapbox-6c3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093948247536:android:1f9d44d6cf99f50330e135",
+        "android_client_info": {
+          "package_name": "com.mobdeve.s12.silverio.gwyneth.snapbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093948247536-080kg9r2l9iukualc78mlbd89668gbp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ppH1dMAucjYP2_yi5ZlfskQYWybfHCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093948247536-080kg9r2l9iukualc78mlbd89668gbp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
